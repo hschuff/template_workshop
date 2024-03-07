@@ -8,7 +8,7 @@ Be creative! do whatever you want!
 - Import things from your .base module
 """
 ##### YOUR CODE HERE #####
-
+from template_workshop import Fibonacci
 ##########################
 
 def main():  # pragma: no cover
@@ -29,4 +29,6 @@ def main():  # pragma: no cover
     """
     ##### YOUR CODE HERE #####
     print("This will do something")
+    fib = Fibonacci()
+    print(fib.fib(10))
     ##########################
