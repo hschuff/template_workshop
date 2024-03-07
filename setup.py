@@ -31,7 +31,7 @@ def read_requirements(path):
 
 setup(
     name="template_workshop",
-    url="https://github.com/akatief/template-workshop/",
+    url="https://github.com/hschuff/template_workshop/",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
     author="author_name",

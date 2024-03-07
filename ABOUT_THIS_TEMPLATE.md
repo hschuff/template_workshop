@@ -10,7 +10,7 @@ It includes:
 - 🧪 Testing structure using [pytest](https://docs.pytest.org/en/latest/)
 - ✅ Code linting using [pylint](https://pypi.org/project/pylint/)
 - 🎯 Entry points to execute your program using `python -m <template_workshop>` with basic CLI argument parsing.
-- 🔄 Continuous integration using [Github Actions](https://github.com/akatief/template-workshop/actions) with jobs to check, lint and test your project.
+- 🔄 Continuous integration using [Github Actions](https://github.com/hschuff/template_workshop/actions) with jobs to check, lint and test your project.
 
 Are there any changes you'd like to request? Feel free to fork and open a pull request!
 
@@ -79,7 +79,7 @@ This file lists all the requirements for testing and development. Use it to sepa
 
 ### What is the `.github` folder?
 
-It contains [GitHub Actions](https://docs.github.com/en/actions) that are executed automatically when pushing your code. You can see results for your repository [here](https://github.com/akatief/template-workshop/actions).
+It contains [GitHub Actions](https://docs.github.com/en/actions) that are executed automatically when pushing your code. You can see results for your repository [here](https://github.com/hschuff/template_workshop/actions).
 
 ### What does the linter workflow do?
 
